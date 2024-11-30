@@ -1,0 +1,10 @@
+package com.coreJava.SmartCalculatorProject;
+
+public class mainFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
